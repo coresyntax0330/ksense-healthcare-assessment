@@ -24,15 +24,20 @@ The solution:
 ## 📦 Setup & Installation
 
 1. **Clone or download** this repository.
+
    ```bash
    git clone https://github.com/matthewlickei/ksense-healthcare-assessment.git
    cd ksense-healthcare-assessment
    ```
+
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
+
 3. **Running the Script**
+
    ```bash
    node assessment.js
    ```
