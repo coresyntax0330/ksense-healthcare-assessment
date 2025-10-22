@@ -26,7 +26,7 @@ The solution:
 1. **Clone or download** this repository.
 
    ```bash
-   git clone https://github.com/matthewlickei/ksense-healthcare-assessment.git
+   git clone https://github.com/coresyntax0330/ksense-healthcare-assessment.git
    cd ksense-healthcare-assessment
    ```
 
